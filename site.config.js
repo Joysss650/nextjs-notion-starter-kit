@@ -7,7 +7,7 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Joyce's blog',
+  name: 'Joyce blog',
   domain: 'https://clever-ankle-c18.notion.site/f0ae4182f2af4f0e9a5609ac854cfad3',
   author: '何佳佳',
 
